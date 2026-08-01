@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "bugexs.com"
+        "bugexs.com",
+        "mirror.iscas.ac.cn"
       ]
     }
   ]
